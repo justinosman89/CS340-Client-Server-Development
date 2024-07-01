@@ -1,7 +1,7 @@
 # CS340-Client-Server-Development
 
 
-ow do you write programs that are maintainable, readable, and adaptable?
+How do you write programs that are maintainable, readable, and adaptable?
 Writing maintainable, readable, and adaptable programs involves several key practices:
 
 Modular Design: Breaking down the program into distinct, self-contained modules or functions. This makes the code easier to manage, test, and understand.
